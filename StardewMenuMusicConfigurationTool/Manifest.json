@@ -1,0 +1,10 @@
+﻿{
+	"Name": "Stardew Menu Music Configuration Tool",
+	"Author": "Dane Rainbird",
+	"Version": "1.0.0",
+	"Description": "A simple mod that allows you to configure the volume for the music and sounds in the game menu.",
+	"UniqueID": "DaneRainbird.StardewMenuMusicConfigurationTool",
+	"EntryDll": "StardewMenuMusicConfigurationTool.dll",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": []
+} 
