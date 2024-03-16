@@ -8,7 +8,7 @@ A simple mod for Stardew Valley that allows you to control the various different
 The Generic Mod Config Menu allows you to control the volumes from in-game, but is not required (as you can always edit the volumes from the config file).
 
 ## Installation
-Download the latest version from the [Releases](), and [install to your SMAPI mods folder](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
+Download the latest version from the [Releases](https://github.com/DaneRainbird/StardewMenuMusicConfigurationTool/releases/latest), and [install to your SMAPI mods folder](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
 
 ## Usage
 After launching the game with the mod installed, you can either modify the config file directly or, if you have the Generic Mod Config Menu installed, you can modify from the settings cog on the Stardew Menu:
